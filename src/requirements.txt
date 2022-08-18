@@ -1,0 +1,14 @@
+uvicorn
+gunicorn
+fastapi
+passlib
+python-dotenv
+python-jose
+bcrypt
+orjson
+redis
+sqlalchemy
+pymysql
+loguru
+numpy
+interval
